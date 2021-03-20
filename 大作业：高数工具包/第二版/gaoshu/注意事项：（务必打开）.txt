@@ -1,0 +1,2 @@
+将gaoshu文件放在桌面
+确保文件夹内路径为c:\users\li\desktop\gaoshu

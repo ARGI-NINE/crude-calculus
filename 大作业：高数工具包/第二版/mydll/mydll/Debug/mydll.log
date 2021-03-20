@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\li\source\repos\mydll\mydll\dllmain.cpp(14,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  正在生成代码...
+C:\Users\li\source\repos\mydll\mydll\dllmain.cpp(55): warning C4715: “findans”: 不是所有的控件路径都返回值
+  dllmain.obj :托管的代码存在时 /DEBUG:FASTLINK 不受支持；正在重新启动与 /DEBUG:FULL 的链接
+  dllmain.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+    正在创建库 C:\Users\li\source\repos\mydll\Debug\mydll.lib 和对象 C:\Users\li\source\repos\mydll\Debug\mydll.exp
+  mydll.vcxproj -> C:\Users\li\source\repos\mydll\Debug\mydll.dll
